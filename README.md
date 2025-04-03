@@ -20,7 +20,7 @@ git clone https://github.com/SID-dev404/MERN-CHAT-APP.git
 cd MERN-CHAT-APP
 ```
 ## .ENV Setup
-```
+```js
 MONGODB_URI = YOUR_MONGODB_URI
 
 PORT = 5001

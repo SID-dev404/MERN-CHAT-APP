@@ -1,6 +1,8 @@
 # MERN-CHAT-APP
 
-Real time chat application using MERN, Cloudinary , Tailwind CSS ( postCSS and autoPrefixer ) and daisyUI.
+Real time chat application using MERN, Cloudinary , Tailwind CSS ( postCSS and autoPrefixer ) , socket.io and daisyUI.
+
+![Demo App](/frontend/public/demo.png)
 
 ## Requirements 
 

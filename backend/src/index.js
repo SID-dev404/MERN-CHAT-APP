@@ -13,7 +13,6 @@ import { app, server } from "./lib/socket.js";
 
 dotenv.config();
 
-const PORT = 5001;
 const __dirname = path.resolve();
 
 app.use(express.json({ limit: "50mb" }));
